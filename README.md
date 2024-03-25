@@ -46,6 +46,26 @@ A program to help you in following the 20-20-20 rule: Look 20 feet away for 20 s
 - Linux
 > * Coming soon
 
+
+### My Progress
+
+* Screen Time throughout week before using Go20:
+
+  <img src="https://github.com/Tech13-08/Go20/assets/68032044/ed93aa1d-a68e-4823-bc32-fb9ba65d69f6" width="600" height="500">
+
+* Screen Time throughout week after using Go20:
+
+  In progress
+
+> The screen time monitoring code was made in python using matplotlib for the graphing and psutil for the screen time. The code is also available in this repository, however it is not neccessary for running Go20. If you would also like to monitor your screen time with this code, follow these steps:
+> * Download the 3 python files and 2 bat files into the same directory
+> * Set up tasks using the `Task Scheduler` for each of the bat files. Make sure in the `Action` tab, when you set the path to the bat file, you also fill out the `Start in (optional` field with the path to the directory you put all the files in.
+> * For the screen monitoring bat file, have it run every minute indefenitely and for the screen update bat file, have it run every day at 12 am.
+> * To check you progress, simply look at the log and text files created in the same directory you put the python and bat files in.
+> * The generate graph python file can be used to make the graph for the screen time hours. 
+
+
+
 ## Authors
 
 - Falak Tulsi  [Tech13-08](https://github.com/Tech13-08)
