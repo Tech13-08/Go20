@@ -52,4 +52,4 @@ A program to help you in following the 20-20-20 rule: Look 20 feet away for 20 s
   
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
