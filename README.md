@@ -48,14 +48,16 @@ A program to help you in following the 20-20-20 rule: Look 20 feet away for 20 s
 
 
 ### My Progress
+> Go20 yielded on average an hour reduction in screen time per day
 
 * Screen Time throughout week before using Go20:
 
   <img src="https://github.com/Tech13-08/Go20/assets/68032044/ed93aa1d-a68e-4823-bc32-fb9ba65d69f6" width="600" height="500">
 
 * Screen Time throughout week after using Go20:
-
-  In progress
+  
+  <img src="https://github.com/user-attachments/assets/b553081c-25d6-4075-adf8-aff03fe37b0d" width="600" height="500">
+  
 
 > The screen time monitoring code was made in python using matplotlib for the graphing and psutil for the screen time. The code is also available in this repository, however it is not neccessary for running Go20. If you would also like to monitor your screen time with this code, follow these steps:
 > * Download the 3 python files and 2 bat files into the same directory
